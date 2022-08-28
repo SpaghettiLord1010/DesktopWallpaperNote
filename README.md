@@ -8,5 +8,5 @@
  If you want the Note to be Multi-Line, add the ° as a Linebreak.
  Ensure all steps are done and enjoy!
 
-# Prerequisits
+# Prerequisit
  PIL module for python.
