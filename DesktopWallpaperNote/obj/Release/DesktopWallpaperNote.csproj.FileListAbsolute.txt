@@ -1,0 +1,10 @@
+C:\Users\phill\source\repos\DesktopWallpaperNote\DesktopWallpaperNote\DesktopWallpaperNote\bin\Release\DesktopWallpaperNote.exe.config
+C:\Users\phill\source\repos\DesktopWallpaperNote\DesktopWallpaperNote\DesktopWallpaperNote\bin\Release\DesktopWallpaperNote.exe
+C:\Users\phill\source\repos\DesktopWallpaperNote\DesktopWallpaperNote\DesktopWallpaperNote\bin\Release\DesktopWallpaperNote.pdb
+C:\Users\phill\source\repos\DesktopWallpaperNote\DesktopWallpaperNote\DesktopWallpaperNote\obj\Release\DesktopWallpaperNote.csproj.AssemblyReference.cache
+C:\Users\phill\source\repos\DesktopWallpaperNote\DesktopWallpaperNote\DesktopWallpaperNote\obj\Release\DesktopWallpaperNote.Form1.resources
+C:\Users\phill\source\repos\DesktopWallpaperNote\DesktopWallpaperNote\DesktopWallpaperNote\obj\Release\DesktopWallpaperNote.Properties.Resources.resources
+C:\Users\phill\source\repos\DesktopWallpaperNote\DesktopWallpaperNote\DesktopWallpaperNote\obj\Release\DesktopWallpaperNote.csproj.GenerateResource.cache
+C:\Users\phill\source\repos\DesktopWallpaperNote\DesktopWallpaperNote\DesktopWallpaperNote\obj\Release\DesktopWallpaperNote.csproj.CoreCompileInputs.cache
+C:\Users\phill\source\repos\DesktopWallpaperNote\DesktopWallpaperNote\DesktopWallpaperNote\obj\Release\DesktopWallpaperNote.exe
+C:\Users\phill\source\repos\DesktopWallpaperNote\DesktopWallpaperNote\DesktopWallpaperNote\obj\Release\DesktopWallpaperNote.pdb
